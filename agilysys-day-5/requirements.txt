@@ -1,0 +1,11 @@
+python-dotenv
+poml==0.0.8
+langchain
+langchain-google-genai
+fastapi
+uvicorn
+pydantic
+python-multipart
+PyPDF2
+pandas
+openpyxl

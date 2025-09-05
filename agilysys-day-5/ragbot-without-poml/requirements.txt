@@ -1,0 +1,9 @@
+openai
+gradio
+python-dotenv
+requests
+pypdf2
+beautifulsoup4
+faiss-cpu
+scikit-learn
+sentence-transformers

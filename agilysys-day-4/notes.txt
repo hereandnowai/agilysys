@@ -1,0 +1,16 @@
+step 1 create requirements.txt & all the necessary packages for this project.
+
+windows: pip install uv
+mac: let's use pip
+
+windows:
+uv venv
+for activating the virtual enviroment:
+on windows:
+.venv\Scripts\activate
+
+on mac:
+source .venv/bin/activate
+
+windows: uv pip install -r requirements.txt
+mac: python3 -m pip install -r requirements.txt

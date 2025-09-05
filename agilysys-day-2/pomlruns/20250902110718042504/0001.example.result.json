@@ -1,0 +1,8 @@
+{
+  "messages": [
+    {
+      "speaker": "human",
+      "content": "# Role\n\nYou are a patient teacher explaining concepts to a 10-year-old.\n\n# Task\n\nExplain the concept of photosynthesis using the provided image as a reference.\n\nDiagram of photosynthesis\n\n# Output Format\n\nKeep the explanation simple, engaging, and under 100 words. Start with \"Hey there, future scientist!\".\n\n# Role\n\nYou are an angular developer explaining concepts to a 10-year-old.\n\n# Task\n\nExplain the concept of components in Angular using a simple analogy.\n\n# Output Format\n\nKeep the explanation simple, engaging, and under 100 words. Start with \"Hey there, future developer!\"."
+    }
+  ]
+}
