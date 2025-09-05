@@ -73,7 +73,7 @@ npm install -g @angular/cli
 ng version
 
 # Navigate to day 2 folder
-cd agilysys-day-2
+cd agilysys-day-02
 
 # Install project dependencies (if any)
 npm install
@@ -111,7 +111,7 @@ After completing Day 2, you will have:
 ## 📁 Project Structure Guide
 
 ```
-agilysys-day-2/
+agilysys-day-02/
 ├── README.md (this file)
 ├── getting-started.md
 ├── introduction.poml

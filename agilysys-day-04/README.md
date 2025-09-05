@@ -80,7 +80,7 @@ Use POML for advanced backend development automation.
 ### Environment Setup
 ```bash
 # Navigate to day 4 folder
-cd agilysys-day-4
+cd agilysys-day-04
 
 # Create virtual environment
 python -m venv venv
@@ -171,7 +171,7 @@ def bad_request(error):
 ## 📁 Project Structure
 
 ```
-agilysys-day-4/
+agilysys-day-04/
 ├── README.md (this file)
 ├── api.py (main API server)
 ├── chatbot.py (chatbot application)

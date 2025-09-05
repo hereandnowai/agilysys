@@ -69,7 +69,7 @@ Implement advanced testing patterns and quality assurance workflows.
 ### Testing Environment Setup
 ```bash
 # Navigate to day 3 folder
-cd agilysys-day-3
+cd agilysys-day-03
 
 # Install testing dependencies
 npm install --save-dev jest @types/jest
@@ -135,7 +135,7 @@ describe('UserService', () => {
 ## 📁 Project Structure
 
 ```
-agilysys-day-3/
+agilysys-day-03/
 ├── README.md (this file)
 ├── unittesting/
 │   ├── src/

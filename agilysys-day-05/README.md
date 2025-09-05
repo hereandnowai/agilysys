@@ -80,7 +80,7 @@ Build a complete document management and search system.
 ### Full Development Environment
 ```bash
 # Navigate to day 5 folder
-cd agilysys-day-5
+cd agilysys-day-05
 
 # Backend setup
 python -m venv venv
@@ -174,7 +174,7 @@ def handle_message(data):
 ## 📁 Project Structure
 
 ```
-agilysys-day-5/
+agilysys-day-05/
 ├── README.md (this file)
 ├── api.py (main backend API)
 ├── chatbot.py (AI chatbot logic)

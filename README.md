@@ -26,15 +26,15 @@ Over the course of **10 days (4 hours per day)**, you will embark on a journey t
 
 | Day | Focus Area | Key Topics |
 |-----|------------|------------|
-| [**Day 1**](./agilysys-day-1/) | Web Fundamentals | HTML, CSS, JavaScript Basics with Copilot |
-| [**Day 2**](./agilysys-day-2/) | Modern Frameworks | Angular Introduction & Setup |
-| [**Day 3**](./agilysys-day-3/) | Testing & Quality | Unit Testing, Code Quality |
-| [**Day 4**](./agilysys-day-4/) | Backend Development | Python APIs, Server-side Logic |
-| [**Day 5**](./agilysys-day-5/) | Full-Stack Integration | Connecting Frontend & Backend |
-| [**Day 6**](./agilysys-day-6/) | Advanced Features | Authentication, State Management |
-| [**Day 7**](./agilysys-day-7/) | Database Integration | Data Persistence, CRUD Operations |
-| [**Day 8**](./agilysys-day-8/) | Performance & Security | Optimization, Security Best Practices |
-| [**Day 9**](./agilysys-day-9/) | DevOps & Deployment | CI/CD, Cloud Deployment |
+| [**Day 1**](./agilysys-day-01/) | Web Fundamentals | HTML, CSS, JavaScript Basics with Copilot |
+| [**Day 2**](./agilysys-day-02/) | Modern Frameworks | Angular Introduction & Setup |
+| [**Day 3**](./agilysys-day-03/) | Testing & Quality | Unit Testing, Code Quality |
+| [**Day 4**](./agilysys-day-04/) | Backend Development | Python APIs, Server-side Logic |
+| [**Day 5**](./agilysys-day-05/) | Full-Stack Integration | Connecting Frontend & Backend |
+| [**Day 6**](./agilysys-day-06/) | Advanced Features | Authentication, State Management |
+| [**Day 7**](./agilysys-day-07/) | Database Integration | Data Persistence, CRUD Operations |
+| [**Day 8**](./agilysys-day-08/) | Performance & Security | Optimization, Security Best Practices |
+| [**Day 9**](./agilysys-day-09/) | DevOps & Deployment | CI/CD, Cloud Deployment |
 | [**Day 10**](./agilysys-day-10/) | Capstone Project | Final Project Integration |
 
 ## 🚀 Prerequisites
@@ -89,7 +89,7 @@ Each day folder contains:
 - **.gitkeep files**: To maintain folder structure in Git
 
 ### Recommended Learning Path:
-1. Start with `agilysys-day-1/README.md`
+1. Start with `agilysys-day-01/README.md`
 2. Complete each day's projects in order
 3. Use GitHub Copilot throughout all exercises
 4. Refer back to previous days when needed
